@@ -1,0 +1,7 @@
+# Required Python packages for the Barterflip QA automation.
+# Pytest provides the test framework and assertion helpers.
+pytest==8.2.0
+# Playwright is used to automate the Chromium browser.
+playwright==1.47.0
+# python‑dotenv loads environment variables from an .env file.
+python-dotenv==1.0.1
