@@ -1,5 +1,4 @@
-# barterflip_qa
-# README – Pruebas Automatizadas (Barterflip CMS)
+# Pruebas Automatizadas (Barterflip CMS)
 
 ## Objetivo
 Automatizar verificaciones críticas de acceso e interfaz para el CMS de Barterflip con **PyTest + Selenium**, facilitando ejecuciones locales y en CI.
